@@ -3,3 +3,9 @@ build/
 __pycache__/
 *.pyc
 *.db
+.venv/
+__pycache__/
+*.pyc
+.env
+*.exe
+*.zip
